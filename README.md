@@ -1,5 +1,5 @@
 ## नमस्ते 🙏
-## Im Shivay Kushwaha
+## Im Shivanshu Kushwaha
 ## 🔭 I’m currently student of Cyber Security [Computer science]
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
