@@ -35,28 +35,23 @@
 
 ---
 
-## 📊 GitHub Stats and Contributions  
+## 📊 GitHub Stats  
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shivanshukushwah&show_icons=true&theme=radical" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshukushwah&layout=compact&theme=radical" alt="Top Languages">
-    </td>
-  </tr>
-</table>
+| GitHub Stats | Most Used Languages |
+|-------------|--------------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=shivanshukushwah&show_icons=true&theme=radical" alt="GitHub Stats"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages"> |
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshukushwah&theme=radical" alt="GitHub Streak">
-    </td>
-  </tr>
-</table>
+---
+
+## 🔥 GitHub Contributions  
+
+| Streak | Total Contributions | Longest Streak |
+|--------|---------------------|---------------|
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshukushwah&theme=radical" alt="GitHub Streak"> | **20** <br> _Sep 1, 2021 - Present_ | **2** <br> _Feb 13 - Feb 14_ |
 
 ---
 
 ## 🖼️ Cybersecurity Engineer Vibes  
-<img src="https://source.unsplash.com/400x300/?cybersecurity,hacker,technology" width="400px">
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshukushwah&theme=radical" alt="GitHub Streak"> | **20** <br> _Sep 1, 2021 - Present_ | **2** <br> _Feb 13 - Feb 14_ |
+
+---
