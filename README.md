@@ -1,34 +1,54 @@
-## Hello..
-## Im Shivanshu Kushwaha
-## 🔭 I’m currently student of Cyber Security [Computer science]
+# Hi there! 👋
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
- 
-[![](https://img.shields.io/badge/LinkedIn-shivanshukushwaha-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/shivanshukushwaha/)
-[![](https://img.shields.io/badge/Gmail-khushwahashivanshu%350gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:khushwahashivanshu350@gmail.com)
-[![](https://img.shields.io/badge/HackerRank-irros15-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/kushwahashivanshu)
+🌱 I’m currently learning **Cryptography, Cypher Projects, Cyber Security, PHP**  
+📫 How to reach me: [kushwahashivanshu350@gmail.com](mailto:kushwahashivanshu350@gmail.com)  
+📄 All about me: **[Soyy-PORTFOLIO](#)**  
+⚡ Fun fact: **I think I'm a Veteran 😆**  
 
-![](https://github.com/shivanshukushwah/shivanshukushwah/blob/master/aboutMe.png)
+---
 
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)  
 
-![GIF](https://[your-image-url.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dcyber%2Bsecurity%2Bbackground&psig=AOvVaw17jn-OcguqKC9RYiAS0k4r&ust=1742932999906000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDpu8PBo4wDFQAAAAAdAAAAABAQ))
+---
 
+## Languages and Tools:
 
+<p align="left">
+  <img src="https://img.shields.io/badge/C%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 
+---
 
-## About Me:
-#### Always curious to learn cutting edge technology. A bit enthusiast for Cyber sec. engineer. Competitive coding and motorsports boost my adrenaline. <br> 
-<!-- [![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) -->
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25) --> 
+## 📊 GitHub Stats:
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=blueberry" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=blueberry&count_private=true" />
+    </td>
+  </tr>
+</table>
 
+---
 
-
+### 😆 Random Meme
+<img src="https://source.unsplash.com/random/400x300/?cybersecurity,hacker,technology" width="400px">
