@@ -1,4 +1,4 @@
-## नमस्ते 🙏
+## Hello..
 ## Im Shivanshu Kushwaha
 ## 🔭 I’m currently student of Cyber Security [Computer science]
 
