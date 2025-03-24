@@ -40,10 +40,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=shivanshukushwah&show_icons=true&theme=radical" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshukushwah&layout=compact&theme=radical" alt="Top Languages">
     </td>
   </tr>
 </table>
@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshukushwah&theme=radical" alt="GitHub Streak">
     </td>
   </tr>
 </table>
